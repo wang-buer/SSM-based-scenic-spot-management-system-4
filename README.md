@@ -1,41 +1,81 @@
-# 基于SSM的景点管理系统4
+# 基于SSM的景点管理系统
 
-#### 介绍
+## 获取方式
+
+扫描下方，回复关键词  ：**景点4** ，获取完整版源码
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
+## 1、项目介绍
+
 基于SSM的景点管理系统拥有两种角色
 
 管理员：景区管理、酒店管理、留言管理、用户管理等
 
 用户：登录注册、景区酒店查看、发布回复帖子等
 
-#### 软件架构
-软件架构说明
+
+## 2、项目技术
+
+后端框架：SSM（Spring、SpringMVC、Mybatis）
+
+前端技术：jsp、css、JavaScript、JQuery
+
+## 3、开发环境
+
+- JAVA版本：JDK1.8
+- IDE类型：IDEA
+- tomcat版本：Tomcat 7-10版本均可
+- 数据库类型：MySql（5.x和8.x版本都可） 
+- maven项目
+- 硬件环境：Windows 或者 Mac OS
 
 
-#### 安装教程
+## 4、功能介绍
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+### 4.1 登录
 
-#### 使用说明
+![登录](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241796.jpg)
 
-1.  xxxx
-2.  xxxx
-3.  xxxx
+![用户注册](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241109.jpg)
 
-#### 参与贡献
+### 4.2 用户模块
 
-1.  Fork 本仓库
-2.  新建 Feat_xxx 分支
-3.  提交代码
-4.  新建 Pull Request
+![用户-首页](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241309.jpg)
+
+![](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241988.jpeg)
+
+![用户-发布和回复帖子](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241194.jpg)
+
+![用户-查看自己发布的帖子](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241066.jpg)
+
+![用户-个人信息](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241486.jpg)
+
+![用户-帖子](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241534.jpg)
+
+### 4.3 管理员模块
+
+![管理员-景点管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241252.jpg)
+
+![管理员-景点详情](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062242170.jpg)
+
+![管理员-添加景点](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241295.jpg)
+
+![管理员-酒店管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241741.jpg)
+
+![管理员-论坛管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241004.jpg)
+
+![管理员-添加用户](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241899.jpg)
+
+![管理员-留言管理](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202208062241675.jpg)
 
 
-#### 特技
 
-1.  使用 Readme\_XXX.md 来支持不同的语言，例如 Readme\_en.md, Readme\_zh.md
-2.  Gitee 官方博客 [blog.gitee.com](https://blog.gitee.com)
-3.  你可以 [https://gitee.com/explore](https://gitee.com/explore) 这个地址来了解 Gitee 上的优秀开源项目
-4.  [GVP](https://gitee.com/gvp) 全称是 Gitee 最有价值开源项目，是综合评定出的优秀开源项目
-5.  Gitee 官方提供的使用手册 [https://gitee.com/help](https://gitee.com/help)
-6.  Gitee 封面人物是一档用来展示 Gitee 会员风采的栏目 [https://gitee.com/gitee-stars/](https://gitee.com/gitee-stars/)
+## 5、获取方式
+
+扫描下方，回复关键词  ：**景点4**，获取完整版源码
+
+
+
+![https://gitee.com/](https://project-images-1256969109.cos.ap-chongqing.myqcloud.com/Typora-Images/202205281253739.png)
+
